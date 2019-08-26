@@ -60,3 +60,13 @@ footer{
 .col-sm{
     margin: 30px;
 }
+
+.manual{
+   margin: 100px;
+   padding: 10px;
+    background-color: rgba(168,168,168,0.3)
+}
+
+.p{
+    padding: 10px;
+}
